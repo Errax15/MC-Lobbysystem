@@ -7,7 +7,7 @@
 
 
 
- <img src="https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2" width="100" /> ## Downloads
+## <img src="https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2" width="100" />  Downloads
 🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.
 
 🇺🇸 The download for the beta will be available here and on Spigotmc.org.
