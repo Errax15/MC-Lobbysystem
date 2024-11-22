@@ -2,14 +2,14 @@
 ---
 ![image](https://github.com/user-attachments/assets/79963724-1a18-4991-a3d3-e7ea587e3bce)
 
-<p align = "center"> 
+<h3 align = "center"> 
 <img src="https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2" width="100" />
 </p>
 
-### <p align = "center">Downloads</p>
-<p align="center">🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.</p>
+### <h3 align = "center">Downloads</p>
+<h3 align="center">🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.</p>
 
-<p align="center">🇺🇸 The download for the beta will be available here and on Spigotmc.org.</p>
+<h3 align="center">🇺🇸 The download for the beta will be available here and on Spigotmc.org.</p>
 
 ---
 <div align="center">
@@ -20,23 +20,23 @@
 
 ---
 
-<p align = "center"><img src="https://github.com/user-attachments/assets/61bb771e-1c2a-4de8-bba4-ef60bea1fbe3" width="250" /></p>
+<h3 align = "center"><img src="https://github.com/user-attachments/assets/61bb771e-1c2a-4de8-bba4-ef60bea1fbe3" width="250" /></p>
 
-<p align="center">🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.</p>
-<p align="center">🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.</p>
+<h3 align="center">🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.</p>
+<h3 align="center">🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.</p>
 
 ---
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
 
-### <p align="center">📌 Spielerbefehle / Player Commands</p>
+### <h3 align="center">📌 Spielerbefehle / Player Commands</p>
 
 | **Befehl/Command** | **Beschreibung/Description**                          |
 |---------------------|------------------------------------------------------|
 | `/spawn`            | 🇩🇪 Teleportiert den Spieler zum festgelegten Spawnpunkt.<br>🇺🇸 Teleports the player to the set spawn point. |
 
-### <p align="center">📌 Admin-Befehle / Admin Commands</p>
+### <h3 align="center">📌 Admin-Befehle / Admin Commands</p>
 
 | **Befehl/Command**   | **Beschreibung/Description**                          |
 |-----------------------|------------------------------------------------------|
@@ -44,7 +44,7 @@
 
 ---
 
-<p align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
 
 🇩🇪 | Die Konfigurationsdatei ermöglicht eine einfache Anpassung des Lobbysystems. Sie befindet sich unter:  
 `/plugins/Lobbysystem/config.yml`  
@@ -56,7 +56,7 @@
 `plugins/Lobbysystem/messages.yml`
 `plugins/Lobbysystem/data/PlayerData.yml`
 
-### <p align="center">Standart Konfiguration / Default Config:</p>
+### <h3 align="center">Standart Konfiguration / Default Config:</p>
 
 ```yaml
 # Plugin Configuration
@@ -140,10 +140,10 @@ heads:
 
 ---
 
-<p align="center"><img src="https://github.com/user-attachments/assets/5cfbb09e-de10-4ad3-83ed-d0a2fa21f141" width="700" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/5cfbb09e-de10-4ad3-83ed-d0a2fa21f141" width="700" /></p>
 
-<p align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
-<p align="center">🇺🇸 | The plugin uses the following permissions:  </p>
+<h3 align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
+<h3 align="center">🇺🇸 | The plugin uses the following permissions:  </p>
 
 | **Permission**         | **Beschreibung/Description**                                 |
 |-------------------------|------------------------------------------------------------|
@@ -152,16 +152,16 @@ heads:
 
 ---
 
-<p align="center"><img src="https://github.com/user-attachments/assets/5d0938ca-701a-409e-8639-af7618e16a96" width="500" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/5d0938ca-701a-409e-8639-af7618e16a96" width="500" /></p>
 
-<p align="center">🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  </p>
-<p align="center">🇺🇸 | This plugin was developed by [Errax15].  </p>
+<h3 align="center">🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  </p>
+<h3 align="center">🇺🇸 | This plugin was developed by [Errax15].  </p>
 
-<p align="center">🇩🇪 | Vielen Dank für die Nutzung des Lobbysystems! </p> 
-<p align="center">🇺🇸 | Thank you for using the Lobby system!</p>
+<h3 align="center">🇩🇪 | Vielen Dank für die Nutzung des Lobbysystems! </p> 
+<h3 align="center">🇺🇸 | Thank you for using the Lobby system!</p>
 
 ---
 
-<p align="center"><img src="https://github.com/user-attachments/assets/e958e1b8-eefa-491b-b96c-0ee5d383cdd3" width="500" /></p>
-<p align="center">🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter:<a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-probleme-gold" alt="Issuegerman" width="250" height="40"></a></p>
-<p align="center">🇺🇸 | For questions or issues, contact us at:<a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-issues-gold" alt="Issuegerman" width="250" height="40"></a></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/e958e1b8-eefa-491b-b96c-0ee5d383cdd3" width="500" /></p>
+<h3 align="center"> 🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter:<a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-probleme-gold" alt="Issuegerman"></a></h3>
+<h3 align="center"> 🇺🇸 | For questions or issues, contact us at:<a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-issues-gold" alt="Issueenglish"></a></h3>
