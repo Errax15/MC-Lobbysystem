@@ -7,9 +7,9 @@
 </p>
 
 ### <p align = "center">Downloads</p>
-🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.
+<p align="center">🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.</p>
 
-🇺🇸 The download for the beta will be available here and on Spigotmc.org.
+<p align="center">🇺🇸 The download for the beta will be available here and on Spigotmc.org.</p>
 
 ---
 <div align="center">
@@ -19,22 +19,22 @@
 </div>
 
 
-## 📄 Info
+## <p align="center">📄 Info</p>
 
-🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.  
-🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.
+<p align="center">🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.</p>
+<p align="center">🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.</p>
 
 ---
 
-## 🛠️ Commands
+## <p align="center">🛠️ Commands</p>
 
-### 📌 Spielerbefehle / Player Commands
+### <p align="center">📌 Spielerbefehle / Player Commands</p>
 
 | **Befehl/Command** | **Beschreibung/Description**                          |
 |---------------------|------------------------------------------------------|
 | `/spawn`            | 🇩🇪 Teleportiert den Spieler zum festgelegten Spawnpunkt.<br>🇺🇸 Teleports the player to the set spawn point. |
 
-### 📌 Admin-Befehle / Admin Commands
+### <p align="center">📌 Admin-Befehle / Admin Commands</p>
 
 | **Befehl/Command**   | **Beschreibung/Description**                          |
 |-----------------------|------------------------------------------------------|
@@ -42,17 +42,19 @@
 
 ---
 
-## ⚙️ Configs
+## <p align="center">⚙️ Configs</p>
 
 🇩🇪 | Die Konfigurationsdatei ermöglicht eine einfache Anpassung des Lobbysystems. Sie befindet sich unter:  
 `/plugins/Lobbysystem/config.yml`  
 `/plugins/Lobbysystem/messages.yml`
 `plugins/Lobbysystem/data/PlayerData.yml`
+
 🇺🇸 | The configuration file allows for easy customization of the lobby system. It can be found at:  
 `/plugins/Lobbysystem/config.yml`
 `plugins/Lobbysystem/messages.yml`
 `plugins/Lobbysystem/data/PlayerData.yml`
-### Standart Konfiguration / Default Config:
+
+### <p align="center">Standart Konfiguration / Default Config:</p>
 
 ```yaml
 # Plugin Configuration
@@ -136,10 +138,10 @@ heads:
 
 ---
 
-## 🔑 Permissions
+## <p align="center">🔑 Permissions</p>
 
-🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  
-🇺🇸 | The plugin uses the following permissions:  
+<p align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
+<p align="center">🇺🇸 | The plugin uses the following permissions:  </p>
 
 | **Permission**         | **Beschreibung/Description**                                 |
 |-------------------------|------------------------------------------------------------|
@@ -148,16 +150,16 @@ heads:
 
 ---
 
-## ✨ Authors
+## <p align="center">✨ Authors</p>
 
-🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  
-🇺🇸 | This plugin was developed by [Errax15].  
+<p align="center">🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  </p>
+<p align="center">🇺🇸 | This plugin was developed by [Errax15].  </p>
 
-🇩🇪 | Vielen Dank für die Nutzung des Lobbysystems!  
-🇺🇸 | Thank you for using the Lobby system!
+<p align="center">🇩🇪 | Vielen Dank für die Nutzung des Lobbysystems! </p> 
+<p align="center">🇺🇸 | Thank you for using the Lobby system!</p>
 
 ---
 
-## 📧 Support
-🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)
-🇺🇸 | For questions or issues, contact us at: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)
+## <p align="center">📧 Support</p>
+<p align="center">🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)</p>
+<p align="center">🇺🇸 | For questions or issues, contact us at: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)</p>
