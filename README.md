@@ -5,6 +5,8 @@
 ⏳ Der Countdown läuft...
 
 
+![image](https://github.com/user-attachments/assets/f3b9a6ff-bcd6-4ae2-aced-10b58a3d47b2)
+
 ---
 
 ## 📄 Info
