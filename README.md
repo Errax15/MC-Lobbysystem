@@ -4,57 +4,13 @@
 
 ⏳ Der Countdown läuft...
 
-```html
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BETA RELEASE Countdown</title>
-    <script>
-        // Set the date we're counting down to
-        var countDownDate = new Date("Dec 1, 2024 00:00:00").getTime();
-
-        // Update the countdown every 1 second
-        var x = setInterval(function() {
-            // Get the current date and time
-            var now = new Date().getTime();
-
-            // Find the time remaining
-            var distance = countDownDate - now;
-
-            // Time calculations for days, hours, minutes, and seconds
-            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-            // Display the result in an element with id="countdown"
-            document.getElementById("countdown").innerHTML = days + "T " + hours + "h " + minutes + "m " + seconds + "s ";
-
-            // If the countdown is over, display a message
-            if (distance < 0) {
-                clearInterval(x);
-                document.getElementById("countdown").innerHTML = "BETA RELEASE IST JETZT!";
-            }
-        }, 1000);
-    </script>
-</head>
-<body>
-    <h1>BETA RELEASE Countdown</h1>
-    <p id="countdown"></p>
-</body>
-</html>
-```
-🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.  
-🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.
 
 ---
 
 ## 📄 Info
 
-🇩🇪 | Das MC-Lobbysystem wurde speziell entwickelt, um Serveradministratoren zu unterstützen, eine benutzerfreundliche Lobby-Umgebung zu schaffen. Es bietet Funktionen wie benutzerdefinierte Befehle, Konfigurationen und erweiterte Berechtigungen.  
-🇺🇸 | The MC-Lobby system is designed to help server administrators create a user-friendly lobby environment. It offers features such as custom commands, configurations, and advanced permissions.
+🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.  
+🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.
 
 ---
 
