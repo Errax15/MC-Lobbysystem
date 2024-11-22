@@ -13,10 +13,11 @@
 
 ---
 <div align="center">
-  <a href="https://github.com/users/Errax15/projects/1/views/1">
+  <a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank">
     <img src="https://img.shields.io/badge/github-Progress_Board-blue" alt="Progress Board" width="250" height="40">
   </a>
 </div>
+
 
 
 ## <p align="center">📄 Info</p>
