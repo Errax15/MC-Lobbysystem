@@ -18,16 +18,17 @@
   </a>
 </div>
 
+---
 
-
-## <p align="center">📄 Info</p>
+<p align = "center"><img src="https://github.com/user-attachments/assets/61bb771e-1c2a-4de8-bba4-ef60bea1fbe3" width="250" /></p>
 
 <p align="center">🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.</p>
 <p align="center">🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.</p>
 
 ---
 
-## <p align="center">🛠️ Commands</p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
 
 ### <p align="center">📌 Spielerbefehle / Player Commands</p>
 
@@ -43,7 +44,7 @@
 
 ---
 
-## <p align="center">⚙️ Configs</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
 
 🇩🇪 | Die Konfigurationsdatei ermöglicht eine einfache Anpassung des Lobbysystems. Sie befindet sich unter:  
 `/plugins/Lobbysystem/config.yml`  
@@ -139,7 +140,7 @@ heads:
 
 ---
 
-## <p align="center">🔑 Permissions</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5cfbb09e-de10-4ad3-83ed-d0a2fa21f141" width="700" /></p>
 
 <p align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
 <p align="center">🇺🇸 | The plugin uses the following permissions:  </p>
@@ -151,7 +152,7 @@ heads:
 
 ---
 
-## <p align="center">✨ Authors</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5d0938ca-701a-409e-8639-af7618e16a96" width="500" /></p>
 
 <p align="center">🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  </p>
 <p align="center">🇺🇸 | This plugin was developed by [Errax15].  </p>
@@ -161,6 +162,6 @@ heads:
 
 ---
 
-## <p align="center">📧 Support</p>
-<p align="center">🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)</p>
-<p align="center">🇺🇸 | For questions or issues, contact us at: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e958e1b8-eefa-491b-b96c-0ee5d383cdd3" width="500" /></p>
+<p align="center">🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter:<a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-probleme-gold" alt="Issuegerman" width="250" height="40"></a></p>
+<p align="center">🇺🇸 | For questions or issues, contact us at:<a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-issues-gold" alt="Issuegerman" width="250" height="40"></a></p>
