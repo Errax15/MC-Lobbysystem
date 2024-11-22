@@ -6,11 +6,8 @@
 
 
 
-
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2" width="100" />
-  <span style="margin-left: 10px; font-size: 20px;">Downloads</span>
-</div>
+![center]Downloads
+![image]https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2 
 
 🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.
 
