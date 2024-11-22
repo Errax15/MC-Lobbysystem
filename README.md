@@ -1,7 +1,13 @@
 ![image](https://github.com/user-attachments/assets/6beee7d1-b531-48e8-b0e6-96f3922af252)
 
+---
+
 ![image](https://github.com/user-attachments/assets/79963724-1a18-4991-a3d3-e7ea587e3bce)
 
+## <img src="https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2" width="300" /> Downloads
+🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.
+
+🇺🇸 The download for the beta will be available here and on Spigotmc.org.
 
 ---
 
