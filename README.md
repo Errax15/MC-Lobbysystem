@@ -12,10 +12,12 @@
 🇺🇸 The download for the beta will be available here and on Spigotmc.org.
 
 ---
-[![Version](https://img.shields.io/spiget/version/10905?label=version)][spigotmc-link]
-[![Discord](https://img.shields.io/discord/185055040036143104?color=404eed&label=Discord&logo=discord&logoColor=ffffff)][discord-invite]
-[![View on SpigotMC](https://img.shields.io/badge/view%20on-SpigotMC-orange.svg)][spigotmc-link]
-[![Downloads](https://img.shields.io/spiget/downloads/10905?color=blue)][spigotmc-link]
+<div align="center">
+  <a href="https://github.com/users/Errax15/projects/1/views/1">
+    <img src="https://img.shields.io/badge/github-Progress_Board-blue" alt="Progress Board" width="250" height="40">
+  </a>
+</div>
+
 
 ## 📄 Info
 
