@@ -155,4 +155,5 @@ heads:
 ## 📧 Support
 
 🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)
+
 🇺🇸 | For questions or issues, contact us at: [Github Issues](https://github.com/Errax15/MC-Lobbysystem/issues)
