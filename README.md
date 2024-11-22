@@ -6,8 +6,8 @@
 
 
 
-![center]Downloads
-![image]https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2 
+![center](Downloads)
+![image](https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2)
 
 🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.
 
