@@ -76,7 +76,7 @@
 `plugins/Lobbysystem/messages.yml`
 `plugins/Lobbysystem/data/PlayerData.yml`
 
-### <h3 align="center">Standart Konfiguration / Default Config:</p>
+### <h2 align="center">Standart Konfiguration / Default Config:</p>
 
 ```yaml
 # Plugin Configuration
