@@ -32,7 +32,6 @@
 
 ### <h2 align="center">📌 Spielerbefehle / Player Commands</h2>
 
-### <h3 align="center">📌 Spielerbefehle / Player Commands</h3>
 
 <div align="center">
 
@@ -48,7 +47,7 @@
 
 </div>
 
-### <h3 align="center">📌 Admin-Befehle / Admin Commands</h3>
+### <h2 align="center">📌 Admin-Befehle / Admin Commands</h3>
 
 <div align="center">
 
