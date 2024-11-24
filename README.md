@@ -30,7 +30,7 @@
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
 
-### <h3 align="center">📌 Spielerbefehle / Player Commands</h3>
+### <h2 align="center">📌 Spielerbefehle / Player Commands</h2>
 
 <h3>
 
@@ -42,7 +42,7 @@
 
 </h3>
 
-### <h3 align="center">📌 Admin-Befehle / Admin Commands</h3>
+### <h2 align="center">📌 Admin-Befehle / Admin Commands</h2>
 
 <h3>
 
@@ -154,14 +154,14 @@ heads:
 
 <h3 align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
 <h3 align="center">🇺🇸 | The plugin uses the following permissions:  </p>
-
+<h3>
 | **Permission**         | **Beschreibung/Description**                                 |
 |-------------------------|------------------------------------------------------------|
 | `Lobbysystem.*`            | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
 | `Lobbysystem.admin`        | 🇩🇪 Erlaubt es fast alle Einrichtungsbefehle zu nutzen.       <br>🇺🇸 Allows the use almost of all setup commands. |
 | `Lobbysystem.coins.modify` | 🇩🇪 Erlaubt dir /coins modify zu benutzen.                   <br>🇺🇸 Allows you to use /coins modify.              |
 | `Lobbysystem.coins.reset`  | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
-
+</h3>
 ---
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/5d0938ca-701a-409e-8639-af7618e16a96" width="500" /></p>
