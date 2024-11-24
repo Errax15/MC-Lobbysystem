@@ -30,19 +30,29 @@
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
 
-### <h3 align="center">📌 Spielerbefehle / Player Commands</p>
+### <h3 align="center">📌 Spielerbefehle / Player Commands</h3>
 
-| **Befehl/Command** | **Beschreibung/Description**                          |
-|---------------------|------------------------------------------------------|
+<h3>
+
+| **Befehl/Command**  | **Beschreibung/Description**                          |
+|----------------------|------------------------------------------------------|
 | `/spawn`            | 🇩🇪 Teleportiert den Spieler zum festgelegten Spawnpunkt.<br>🇺🇸 Teleports the player to the set spawn point. |
+| `/coins`            | 🇩🇪 Zeigt deine aktuellen Coins an.<br>🇺🇸 Displays your current coins. |
+| `/coins see <player>`| 🇩🇪 Zeigt die Coins eines anderen Spielers an.<br>🇺🇸 Displays the coins of another player. |
 
-### <h3 align="center">📌 Admin-Befehle / Admin Commands</p>
+</h3>
+
+### <h3 align="center">📌 Admin-Befehle / Admin Commands</h3>
+
+<h3>
 
 | **Befehl/Command**   | **Beschreibung/Description**                          |
 |-----------------------|------------------------------------------------------|
 | `/setspawn`          | 🇩🇪 Setzt den aktuellen Standort als Spawnpunkt.     <br>🇺🇸 Sets the current location as the spawn point. |
+| `/coins modify <player> <amount>` | 🇩🇪 Ändert die Coins eines anderen Spielers um den angegebenen Betrag.<br>🇺🇸 Modifies the coins of another player by the specified amount. |
+| `/coins reset <player>` | 🇩🇪 Setzt die Coins eines anderen Spielers auf 0 zurück.<br>🇺🇸 Resets the coins of another player to 0. |
 
----
+</h3>
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
 
@@ -147,8 +157,10 @@ heads:
 
 | **Permission**         | **Beschreibung/Description**                                 |
 |-------------------------|------------------------------------------------------------|
-| `Lobbysystem.admin`            | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
-
+| `Lobbysystem.*`            | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
+| `Lobbysystem.admin`        | 🇩🇪 Erlaubt es fast alle Einrichtungsbefehle zu nutzen.       <br>🇺🇸 Allows the use almost of all setup commands. |
+| `Lobbysystem.coins.modify` | 🇩🇪 Erlaubt dir /coins modify zu benutzen.                   <br>🇺🇸 Allows you to use /coins modify.              |
+| `Lobbysystem.coins.reset`  | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
 
 ---
 
