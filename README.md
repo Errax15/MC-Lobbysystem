@@ -32,6 +32,10 @@
 
 ### <h2 align="center">📌 Spielerbefehle / Player Commands</h2>
 
+### <h3 align="center">📌 Spielerbefehle / Player Commands</h3>
+
+<div align="center">
+
 <h3>
 
 | **Befehl/Command**  | **Beschreibung/Description**                          |
@@ -42,7 +46,11 @@
 
 </h3>
 
-### <h2 align="center">📌 Admin-Befehle / Admin Commands</h2>
+</div>
+
+### <h3 align="center">📌 Admin-Befehle / Admin Commands</h3>
+
+<div align="center">
 
 <h3>
 
@@ -53,6 +61,9 @@
 | `/coins reset <player>` | 🇩🇪 Setzt die Coins eines anderen Spielers auf 0 zurück.<br>🇺🇸 Resets the coins of another player to 0. |
 
 </h3>
+
+</div>
+
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
 
@@ -154,10 +165,8 @@ heads:
 
 <h3 align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
 <h3 align="center">🇺🇸 | The plugin uses the following permissions:  </p>
-
-### <h3 align="center">📌 Berechtigungen / Permissions</h3>
-
 <h3>
+<div align="center">
 
 | **Permission**         | **Beschreibung/Description**                                 |
 |-------------------------|------------------------------------------------------------|
@@ -166,6 +175,7 @@ heads:
 | `Lobbysystem.coins.modify` | 🇩🇪 Erlaubt dir /coins modify zu benutzen.                   <br>🇺🇸 Allows you to use /coins modify.              |
 | `Lobbysystem.coins.reset`  | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
 
+</div>
 </h3>
 
 ---
