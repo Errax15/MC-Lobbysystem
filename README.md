@@ -192,3 +192,10 @@ heads:
 <h3 align="center"><img src="https://github.com/user-attachments/assets/e958e1b8-eefa-491b-b96c-0ee5d383cdd3" width="500" /></p>
 <h3 align="center"> 🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter:<a href="https://github.com/Errax15/MC-Lobbysystem/issues" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-probleme-gold" alt="Issuegerman"></a></h3>
 <h3 align="center"> 🇺🇸 | For questions or issues, contact us at:<a href="https://github.com/Errax15/MC-Lobbysystem/issues" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-issues-gold" alt="Issueenglish"></a></h3>
+
+---
+
+<h3 align="center"><img src="https://github.com/user-attachments/assets/ad86f33b-98c3-4228-9f27-a9e372e06f71" width="500" /></p>
+
+Developed by Errax15</p>
+Texture/Model Designs by Tablet2210</p>
