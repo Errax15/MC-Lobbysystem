@@ -1,20 +1,15 @@
 ![image](https://github.com/user-attachments/assets/6beee7d1-b531-48e8-b0e6-96f3922af252) 
----
-![image](https://github.com/user-attachments/assets/79963724-1a18-4991-a3d3-e7ea587e3bce)
 
-<h3 align = "center"> 
-<img src="https://github.com/user-attachments/assets/5ddb695d-4ece-4ff2-8a98-22916db4c5a2" width="100" />
-</p>
 
-### <h3 align = "center">Downloads</p>
-<h3 align="center">🇩🇪 Der Download zur Beta wird hier und auf Spigotmc.org verfügbar sein.</p>
-
-<h3 align="center">🇺🇸 The download for the beta will be available here and on Spigotmc.org.</p>
+![image](https://github.com/user-attachments/assets/db9f6413-3c84-4ce1-926e-f5e21d65fb15)
 
 ---
+
+<h3 align = "center"><img src="https://github.com/user-attachments/assets/32b24979-96b2-495c-a19a-dd62d67fe768" width="650" /></p>
+
 <div align="center">
-  <a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank">
-    <img src="https://img.shields.io/badge/github-Progress_Board-blue" alt="Progress Board" width="250" height="40">
+  <a href="https://github.com/Errax15/MC-Lobbysystem/releases/latest" target="_blank">
+    <img src="https://img.shields.io/badge/Plugin-Releases-gold" alt="Release Latest" width="220" height="40">
   </a>
 </div>
 
@@ -27,6 +22,14 @@
 
 ---
 
+<h3 align = "center"><img src="https://github.com/user-attachments/assets/85098738-b129-4b1c-a58e-bb5b72e073d0" width="550" /></p>
+<div align="center">
+  <a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank">
+    <img src="https://img.shields.io/badge/github-Progress_Board-blue" alt="Progress Board" width="200" height="32">
+  </a>
+</div>
+
+---
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
 
@@ -63,6 +66,7 @@
 
 </div>
 
+---
 
 <h3 align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
 
