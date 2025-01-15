@@ -202,4 +202,3 @@ heads:
 <h3 align="center"><img src="https://github.com/user-attachments/assets/ad86f33b-98c3-4228-9f27-a9e372e06f71" width="500" /></p>
 
 Developed by Errax15</p>
-Texture/Model Designs by Tablet2210</p>
