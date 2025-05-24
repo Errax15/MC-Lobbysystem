@@ -118,11 +118,23 @@ spawn:
   yaw: 0.0
   pitch: 0.0
 
+scoreboard:
+  title: "&b&l    DeinServer    &l"
+  lines:
+    - " "
+    - "&a&lName"
+    - "&7%player_name%"
+    - "  "
+    - "&6&lCoins"
+    - "&e%coins%"
+    - "   "
+
 # Navigator general
 CompassName: "§b§lNavigator"
 
 # Navigator Items
 navigator:
+  use_bungeecord: true
   item1:
     material: REDSTONE
     name: Teleport zu 0, 0, 0
@@ -173,12 +185,18 @@ heads:
 <h3>
 <div align="center">
 
-| **Permission**         | **Beschreibung/Description**                                 |
-|-------------------------|------------------------------------------------------------|
-| `Lobbysystem.*`            | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
-| `Lobbysystem.admin`        | 🇩🇪 Erlaubt es fast alle Einrichtungsbefehle zu nutzen.       <br>🇺🇸 Allows the use almost of all setup commands. |
-| `Lobbysystem.coins.modify` | 🇩🇪 Erlaubt dir /coins modify zu benutzen.                   <br>🇺🇸 Allows you to use /coins modify.              |
-| `Lobbysystem.coins.reset`  | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                   <br>🇺🇸 Allows the use of all setup commands. |
+| **Permission**                     | **Beschreibung/Description**                                                                 |
+|-------------------------------------|--------------------------------------------------------------------------------------------|
+| `Lobbysystem.*`                    | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                                           <br>🇺🇸 Allows the use of all setup commands. |
+| `Lobbysystem.admin`                | 🇩🇪 Erlaubt es fast alle Einrichtungsbefehle zu nutzen.                                      <br>🇺🇸 Allows the use almost of all setup commands. |
+| `Lobbysystem.coins.modify`         | 🇩🇪 Erlaubt dir /coins modify zu benutzen.                                                  <br>🇺🇸 Allows you to use /coins modify.              |
+| `Lobbysystem.coins.reset`          | 🇩🇪 Erlaubt es alle Einrichtungsbefehle zu nutzen.                                           <br>🇺🇸 Allows the use of all setup commands. |
+| `Lobbysystem.gadgets.*`            | 🇩🇪 Erlaubt Zugriff auf alle Gadgets.                                                       <br>🇺🇸 Allows access to all gadgets. |
+| `Lobbysystem.gadgets.enterhaken`   | 🇩🇪 Erlaubt Zugriff auf das Enterhaken Gadget.                                              <br>🇺🇸 Allows access to the grappling hook gadget. |
+| `Lobbysystem.gadgets.elytra`       | 🇩🇪 Erlaubt Zugriff auf das Elytra Gadget.                                                  <br>🇺🇸 Allows access to the Elytra gadget. |
+| `Lobbysystem.gadgets.catbazooka`   | 🇩🇪 Erlaubt Zugriff auf das Katzenbazooka Gadget.                                           <br>🇺🇸 Allows access to the Cat Bazooka gadget. |
+| `Lobbysystem.gadgets.paintballgun` | 🇩🇪 Erlaubt Zugriff auf das Paintballgun Gadget.                                            <br>🇺🇸 Allows access to the Paintball Gun gadget. |
+| `Lobbysystem.gadgets.sitonplayer`  | 🇩🇪 Erlaubt Zugriff auf das SitonPlayer Gadget.                                             <br>🇺🇸 Allows access to the Sit on Player gadget. |
 
 </div>
 </h3>
