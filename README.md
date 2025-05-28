@@ -1,4 +1,4 @@
-<h3 align="center">❗️API is currently down❗️</p>
+<h3 align="center">❗️NEW UPDATE 1.0.2 ❗️</p>
 
 ![image](https://github.com/user-attachments/assets/6beee7d1-b531-48e8-b0e6-96f3922af252) 
 
