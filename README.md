@@ -1,13 +1,10 @@
-<h3 align="center">❗️NEW UPDATE 1.0.2 ❗️</p>
+<h3 align="center">❗️NEW UPDATE 1.0.3 ❗️</h3>
 
-![image](https://github.com/user-attachments/assets/6beee7d1-b531-48e8-b0e6-96f3922af252) 
-
-
-<!-- ![image](https://github.com/user-attachments/assets/db9f6413-3c84-4ce1-926e-f5e21d65fb15)  -->
+![image](https://github.com/user-attachments/assets/6beee7d1-b531-48e8-b0e6-96f3922af252)
 
 ---
 
-<h3 align = "center"><img src="https://github.com/user-attachments/assets/32b24979-96b2-495c-a19a-dd62d67fe768" width="650" /></p>
+<h3 align = "center"><img src="https://github.com/user-attachments/assets/32b24979-96b2-495c-a19a-dd62d67fe768" width="650" /></h3>
 
 <div align="center">
   <a href="https://github.com/Errax15/MC-Lobbysystem/releases/latest" target="_blank">
@@ -17,14 +14,14 @@
 
 ---
 
-<h3 align = "center"><img src="https://github.com/user-attachments/assets/61bb771e-1c2a-4de8-bba4-ef60bea1fbe3" width="250" /></p>
+<h3 align = "center"><img src="https://github.com/user-attachments/assets/61bb771e-1c2a-4de8-bba4-ef60bea1fbe3" width="250" /></h3>
 
-<h3 align="center">🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.</p>
-<h3 align="center">🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.</p>
+<h3 align="center">🇩🇪 | Dieses Plugin bietet ein umfassendes Lobbysystem für Spigot-Server mit Version 1.21.</h3>
+<h3 align="center">🇺🇸 | This plugin provides a comprehensive lobby system for Spigot servers running version 1.21.</h3>
 
 ---
 
-<h3 align = "center"><img src="https://github.com/user-attachments/assets/85098738-b129-4b1c-a58e-bb5b72e073d0" width="550" /></p>
+<h3 align = "center"><img src="https://github.com/user-attachments/assets/85098738-b129-4b1c-a58e-bb5b72e073d0" width="550" /></h3>
 <div align="center">
   <a href="https://github.com/users/Errax15/projects/1/views/1" target="_blank">
     <img src="https://img.shields.io/badge/github-Progress_Board-blue" alt="Progress Board" width="200" height="32">
@@ -33,10 +30,9 @@
 
 ---
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/4b6737e4-ebb6-435f-a654-5c23a25b4dca" width="550" /></h3>
 
 ### <h2 align="center">📌 Spielerbefehle / Player Commands</h2>
-
 
 <div align="center">
 
@@ -52,7 +48,7 @@
 
 </div>
 
-### <h2 align="center">📌 Admin-Befehle / Admin Commands</h3>
+### <h2 align="center">📌 Admin-Befehle / Admin Commands</h2>
 
 <div align="center">
 
@@ -70,19 +66,19 @@
 
 ---
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/852e3f85-caef-4e70-aa07-2e01811d18fd" width="400" /></h3>
 
 🇩🇪 | Die Konfigurationsdatei ermöglicht eine einfache Anpassung des Lobbysystems. Sie befindet sich unter:  
 `/plugins/Lobbysystem/config.yml`  
 `/plugins/Lobbysystem/messages.yml`
-`plugins/Lobbysystem/data/PlayerData.yml`
+`/plugins/Lobbysystem/data/PlayerData.yml`
 
 🇺🇸 | The configuration file allows for easy customization of the lobby system. It can be found at:  
 `/plugins/Lobbysystem/config.yml`
-`plugins/Lobbysystem/messages.yml`
-`plugins/Lobbysystem/data/PlayerData.yml`
+`/plugins/Lobbysystem/messages.yml`
+`/plugins/Lobbysystem/data/PlayerData.yml`
 
-### <h2 align="center">Standart Konfiguration / Default Config:</p>
+### <h2 align="center">Standart Konfiguration / Default Config:</h2>
 
 ```yaml
 # Plugin Configuration
@@ -91,7 +87,6 @@
 prefix: "§bLobby §8| "
 Level: "2024"
 HotbarSounds: true
-
 
 # Welcome effects
 welcome:
@@ -156,10 +151,8 @@ navigator:
       z: 100
   # add more...
 
-
 # Gadgets
 gadgetitemname: "§7§lGadgets"
-
 
 # Köpfe
 heads:
@@ -172,16 +165,14 @@ heads:
   - Spieler6
   - Spieler7
 
-
-
 ```
 
 ---
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/5cfbb09e-de10-4ad3-83ed-d0a2fa21f141" width="700" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/5cfbb09e-de10-4ad3-83ed-d0a2fa21f141" width="700" /></h3>
 
-<h3 align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </p>
-<h3 align="center">🇺🇸 | The plugin uses the following permissions:  </p>
+<h3 align="center">🇩🇪 | Das Plugin nutzt folgende Berechtigungen:  </h3>
+<h3 align="center">🇺🇸 | The plugin uses the following permissions:  </h3>
 <h3>
 <div align="center">
 
@@ -203,22 +194,33 @@ heads:
 
 ---
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/5d0938ca-701a-409e-8639-af7618e16a96" width="500" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/5d0938ca-701a-409e-8639-af7618e16a96" width="500" /></h3>
 
-<h3 align="center">🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  </p>
-<h3 align="center">🇺🇸 | This plugin was developed by [Errax15].  </p>
+<h3 align="center">🇩🇪 | Dieses Plugin wurde von [Errax15] entwickelt.  </h3>
+<h3 align="center">🇺🇸 | This plugin was developed by [Errax15].  </h3>
 
-<h3 align="center">🇩🇪 | Vielen Dank für die Nutzung des Lobbysystems! </p> 
-<h3 align="center">🇺🇸 | Thank you for using the Lobby system!</p>
+<h3 align="center">🇩🇪 | Vielen Dank für die Nutzung des Lobbysystems! </h3> 
+<h3 align="center">🇺🇸 | Thank you for using the Lobby system!</h3>
 
 ---
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/e958e1b8-eefa-491b-b96c-0ee5d383cdd3" width="500" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/e958e1b8-eefa-491b-b96c-0ee5d383cdd3" width="500" /></h3>
 <h3 align="center"> 🇩🇪 | Bei Fragen oder Problemen, kontaktiere uns unter:<a href="https://github.com/Errax15/MC-Lobbysystem/issues" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-probleme-gold" alt="Issuegerman"></a></h3>
 <h3 align="center"> 🇺🇸 | For questions or issues, contact us at:<a href="https://github.com/Errax15/MC-Lobbysystem/issues" target="_blank"><img src="https://img.shields.io/badge/Lobbysystem-issues-gold" alt="Issueenglish"></a></h3>
 
 ---
 
-<h3 align="center"><img src="https://github.com/user-attachments/assets/ad86f33b-98c3-4228-9f27-a9e372e06f71" width="500" /></p>
+<h3 align="center"><img src="https://github.com/user-attachments/assets/ad86f33b-98c3-4228-9f27-a9e372e06f71" width="500" /></h3>
 
-Developed by Errax15</p>
+Developed by Errax15
+
+---
+
+## Update 1.0.3
+
+### Änderungen / Changes
+
+- Alle Actionbar-Cooldown-Nachrichten wurden vereinheitlicht: `§7« §cWarte... " + seconds + "s §7»`
+- Paintballgun: Stufen (alle *_STAIRS) und Blöcke auf der Ignore-Liste werden nicht mehr verändert
+- Kommentare/Notizen im gesamten Code entfernt
+- README und Plugin-Version auf 1.0.3 aktualisiert
