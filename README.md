@@ -213,14 +213,3 @@ heads:
 <h3 align="center"><img src="https://github.com/user-attachments/assets/ad86f33b-98c3-4228-9f27-a9e372e06f71" width="500" /></h3>
 
 Developed by Errax15
-
----
-
-## Update 1.0.3
-
-### Änderungen / Changes
-
-- Alle Actionbar-Cooldown-Nachrichten wurden vereinheitlicht: `§7« §cWarte... " + seconds + "s §7»`
-- Paintballgun: Stufen (alle *_STAIRS) und Blöcke auf der Ignore-Liste werden nicht mehr verändert
-- Kommentare/Notizen im gesamten Code entfernt
-- README und Plugin-Version auf 1.0.3 aktualisiert
