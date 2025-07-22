@@ -1,4 +1,8 @@
-<h3 align="center">🚧 Upcoming Update Notice 🚧</h3> <p align="center"> <strong>I’m already working on Update 1.0.4 daily, and I will continue to focus on it over the coming weeks to deliver a fully functional and complete lobby for you.<br><br> The listed features will be added to the progress board under version 1.0.4. Please be patient for a few more weeks.</strong><br><br> From time to time, test versions will be released, allowing you to try out features in advance.<br> <strong>Please note that these are unfinished versions, and we cannot take responsibility for any issues or potential damage that may occur during their use.</strong> </p>
+<h3 align="center">🚧 Upcoming Update Notice 🚧</h3> <p align="center"> <strong>I’m already working on Update 1.0.4 daily, and I will continue to focus on it over the coming weeks to deliver a fully functional and complete lobby for you.<br><br> The listed features will be added to the progress board under version 1.0.4. Please be patient for a few more weeks.</strong><br><br> From time to time, test versions will be released, allowing you to try out features in advance.<br> <strong>Please note that these are unfinished versions, and we cannot take responsibility for any issues or potential damage that may occur during their use. These test versions are clearly marked with 'test' in their name, distinguishing them from official release files, which are labeled with version numbers.</strong> </p>
+
+
+
+
 
 <h3 align="center">❗️NEW UPDATE 1.0.3 ❗️</h3>
 
